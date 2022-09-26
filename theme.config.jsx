@@ -12,4 +12,16 @@ export default {
   search: {
     component: null,
   },
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="World Gatka Federation" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@shuding_" />
+      <meta property="og:title" content="World Gatka Federation" />
+      <meta property="og:description" content="World Gatka Federation" />
+      <meta name="msapplication-TileColor" content="#ffffff" />
+      <meta name="theme-color" content="#ffffff" />
+    </>
+  ),
 };
