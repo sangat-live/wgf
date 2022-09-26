@@ -1,0 +1,12 @@
+{
+  "index": {
+    "title": "Nextra",
+    "type": "page",
+    "hidden": true
+  },
+  "about": {
+    "title": "About Us",
+    "type": "page",
+    "href": "/about"
+  }
+}
